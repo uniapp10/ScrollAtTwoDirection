@@ -1,0 +1,2 @@
+# ScrollAtTwoDirection
+证券类App中,使用TableView项目列表时,Cell同时要左右滑动
